@@ -1,0 +1,56 @@
+* { 
+margin: 0;
+font-size: large; 
+padding: 0; 
+} 
+p{
+    color:lightskyblue;
+}
+h1{
+    color:black;
+}
+p { 
+font-family: Arial, sans-serif; 
+}
+h1 { 
+font-size: 40px; 
+} 
+p { 
+font-size: 18px; 
+} 
+p { 
+font-weight: bold; 
+} 
+p { 
+font-style: italic; 
+}
+h1 { 
+color: blue; 
+} 
+p { 
+color: #ff6600; 
+}
+h1 { 
+text-align: center; 
+} 
+a { 
+text-decoration:none; 
+}
+h1 { 
+text-transform: uppercase; 
+}
+p { 
+text-transform: capitalize; 
+}
+h1 { 
+letter-spacing: 3px; 
+}
+p { 
+word-spacing: 10px; 
+}
+p { 
+line-height: 1.8; 
+}
+h1 { 
+text-shadow: 2px 2px 5px gray; 
+}
